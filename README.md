@@ -17,4 +17,3 @@ You can download the data from MovieLens and utilize files such as 'movies.csv',
 - Data loading and preprocessing (join operations, filtering).
 - Calculation of average ratings and movie classification.
 - Performance measurement of Spark and Pandas implementations.
-- SQL querying on the dataset for analytical knowledge.
